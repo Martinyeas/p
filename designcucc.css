@@ -89,3 +89,11 @@ body{
     position: absolute;
     left: 900px;
   }
+
+  .csskép{
+    padding: -1px;
+  }
+
+  .cssk {
+    font-size: 1cm;
+  }
