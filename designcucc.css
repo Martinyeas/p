@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(43, 42, 42);
+    
+}
+
+.e {
+    background-color:rgb(3, 2, 2);
+    overflow: hidden;
+    padding: 5px;
+    padding-inline-end: 10px;
+  }
+  
+  .e a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .e a:hover {
+    background-color: rgb(0, 158, 250);
+    color: rgb(0, 0, 0);
+  }
+  
+  .e a.aktív {
+    background-color: #17361a;
+    color: white;
+  }
+
+  .listák ul.lista2{
+    font-size: 140%;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+  }
+  .listák ul.lista{
+    font-size: 140%;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+  }
+  img.html{
+    width: 0.5cm;
+    border: 0.1cm solid #ddd;
+    padding: 1px;
+   position: absolute;
+   left: auto;
+   top: auto;
+  }
+  img.css{
+    width: 0.5cm;
+    border: 0.1cm solid #ddd;
+    padding: 1px;
+   position: absolute;
+   left: auto;
+   top: auto;
+  }
+  img.js{
+    width: 0.5cm;
+    border: 0.1cm solid #ddd;
+    padding: 1px;
+   position: absolute;
+   left: auto;
+   top: auto;
+  }
+  img.lua{
+    width: 0.6cm;
+   position: absolute;
+   left: auto;
+   top: 9.7cm;
+   padding: 1px;
+   border: 0.1cm solid #ddd;
+  }
+  img.c{
+    width: 0.8cm;
+    border: 0.1cm solid #ddd;
+    padding: 1px;
+   position: absolute;
+   left: auto;
+   top: auto;
+  }
+
+  .big{
+    font-size: 0.8cm;
+    color: rgb(255, 255, 255);
+    
+  }
+  .kép1 {
+    position: absolute;
+    left: 900px;
+  }
